@@ -1,0 +1,12 @@
+(22.11.18_23.28.21)
+No diretorio: G:\Python\Github\Leitor_arquivos
+========================
+
+O - 1 arquivos TEM a palvara solicitada:
+lorem.txt
+
+===================================
+
+X - 1 arquivos NAO tem a palvara solicitada:
+poema.txt
+
